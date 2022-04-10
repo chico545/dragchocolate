@@ -5230,8 +5230,9 @@ let rajah = new Queen("Ra'Jah O'Hara", 7, 8, 14, 14, 6, 10, 12, "Rajah");
 let scarlet = new Queen("Scarlet Envy", 10, 8, 5, 11, 7, 9, 7, "Scarlet");
 let shuga = new Queen("Shuga Cain", 8, 7, 7, 5, 7, 10, 7, "Shuga");
 let silky = new Queen("Silky Nutmeg Ganache", 8, 9, 7, 6, 9, 7, 11, "Silky");
+var soju = new Queen("Soju", 3, 4, 3, 4, 3, 3, 3, "Soju");
 let yvie = new Queen("Yvie Oddly", 11, 5, 8, 11, 5, 8, 14, "Yvie");
-let us_season11 = [akeria, ariel, brooke, honeyd, kahanna, mercedes, ninaw, plastique, rajah, scarlet, shuga, silky, vanessa, yvie];
+let us_season11 = [akeria, ariel, brooke, honeyd, kahanna, mercedes, ninaw, plastique, rajah, scarlet, shuga, silky, soju, vanessa, yvie];
 //SEASON 12: 
 let aiden = new Queen("Aiden Zhane", 9, 3, 6, 4, 3, 8, 7, "Aiden");
 let brita = new Queen("Brita", 7, 6, 7, 4, 3, 7, 10, "Brita");
@@ -5244,8 +5245,9 @@ let jaida = new Queen("Jaida Essence Hall", 5, 9, 9, 11, 9, 10, 12, "Jaida");
 let jan = new Queen("Jan", 8, 7, 9, 7, 8, 8, 7, "Jan");
 let nicky = new Queen("Nicky Doll", 4, 4, 7, 10, 3, 10, 5, "Nicky");
 let rock = new Queen("Rock M. Sakura", 6, 8, 6, 7, 8, 8, 6, "Rock");
+var sherry = new Queen("Sherry Pie", 10, 10, 7, 6, 10, 8, 8, "Sherry");
 let widow = new Queen("Widow Von'Du", 10, 9, 12, 7, 9, 8, 14, "Widow");
-let us_season12 = [aiden, brita, crystal, dahlia, gigi, heidi, jackie, jaida, jan, nicky, rock, widow];
+let us_season12 = [aiden, brita, crystal, dahlia, gigi, heidi, jackie, jaida, jan, nicky, rock, sherry, widow];
 //ALL STARS 5
 let allstars_5 = [alexis, blair, derrick, india, jujubee, mariah, mayhem, miz, ongina, shea];
 //SEASON 13
@@ -5472,8 +5474,8 @@ let allQueens = [
     acid, bob, chichi, cynthia, dax, derrick, kim, laila, naomi, naysha, robbie, thorgy,
     aja, alexism, charlie, eureka, farrah, jaymes, kimora, ninab, peppermint, sasha, shea, trinity, valentina,
     aquaria, asia, blair, dusty, kalorie, kameron, mayhem, miz, monet, monique, vanessa, vixen, yuhua,
-    akeria, ariel, brooke, honeyd, kahanna, mercedes, ninaw, plastique, rajah, scarlet, shuga, silky, yvie,
-    aiden, brita, crystal, dahlia, gigi, heidi, jackie, jaida, jan, nicky, rock, widow,
+    akeria, ariel, brooke, honeyd, kahanna, mercedes, ninaw, plastique, rajah, scarlet, shuga, silky, soju, yvie,
+    aiden, brita, crystal, dahlia, gigi, heidi, jackie, jaida, jan, nicky, rock, sherry, widow,
     denali, elliott, mik, joey, kahmora, kandym, lala, olivia, rose, symone, tamisha, tina, utica,
     alyssaH, angeria, bosco, daya, deja, jasmineK, jorgeous, june, kerri, kornbread, cadmen, maddy, orion, willow,
     baga, blu, cheryl, crystaluk, divina, gothy, scaredy, sumting, viv, vinegar,
