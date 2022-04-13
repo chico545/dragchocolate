@@ -4993,7 +4993,7 @@ function lipSync() {
         }
     } else {
         if (score1 > 7 && score2 > 7 && randomNumber(0, 100) <= 50 && !doubleShantay && noDouble == false && currentCast.length > 5) {
-            if (randomNumber(0, 100) >= 95) {
+            if (randomNumber(0, 100) >= 30) {
                 screen.createImage(bottomQueens[0].image, "tomato");
                 screen.createBold(bottomQueens[0].getName() + ", shantay you stay.");
                 screen.createImage(bottomQueens[1].image, "red");
